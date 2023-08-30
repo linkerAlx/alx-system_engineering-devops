@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *~
+makdir -p welcome/to/school
